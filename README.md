@@ -2,7 +2,6 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on cybersecurity
-- 📫 How to reach me ...
 
 <!---
 fuentescybersecurity/fuentescybersecurity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
